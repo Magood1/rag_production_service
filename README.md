@@ -1,11 +1,11 @@
 # G-RAG: Intelligent Support Agent Microservice
-![alt text](https://img.shields.io/badge/FastAPI-0.109+-009688.svg)
+[alt text](https://img.shields.io/badge/FastAPI-0.109+-009688.svg)
 
-![alt text](https://img.shields.io/badge/Vector_DB-FAISS-blue.svg)
+[alt text](https://img.shields.io/badge/Vector_DB-FAISS-blue.svg)
 
-![alt text](https://img.shields.io/badge/Deployment-Docker-2496ED.svg)
+[alt text](https://img.shields.io/badge/Deployment-Docker-2496ED.svg)
 
-![alt text](https://img.shields.io/badge/Status-Production_Pilot-success.svg)
+[alt text](https://img.shields.io/badge/Status-Production_Pilot-success.svg)
 
 A high-performance, containerized RAG microservice designed for automated customer support. Built as the first pilot implementation of the G-RAG Platform vision.
 
