@@ -1,0 +1,23 @@
+[
+  {
+    "question": "كيف يمكنني إرجاع منتج؟",
+    "expected_id": "faq-001"
+  },
+  {
+    "question": "ما هي مدة التوصيل؟",
+    "expected_id": "faq-002"
+  },
+  {
+    "question": "هل يوجد كفالة على الأجهزة؟",
+    "expected_id": "faq-003"
+  },
+  {
+    "question": "سياسة الارجاع",
+    "expected_id": "faq-001"
+  },
+  {
+    "question": "كيف اتتبع شحنتي",
+    "expected_id": "faq-004"
+  }
+]
+

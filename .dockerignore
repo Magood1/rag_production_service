@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# IDE / OS specific
+.vscode/
+.idea/
+*.DS_Store
+
+# Evaluation files
+evaluation/
+
+# Scripts (not needed in production image)
+scripts/
+check_models.py
+

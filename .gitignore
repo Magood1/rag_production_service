@@ -1,0 +1,40 @@
+# Security (Critical)
+.env
+.env.prod
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Data & Indexes (نرفع ملفات JSON المصدرية، لكن لا نرفع الفهرس المولّد لأنه يتغير)
+data/*.faiss
+data/*.pkl
+# نستثني ملفات json الوصفية لأنها صغيرة ومفيدة
+!data/metadata_v1.json
+
+# IDE Settings
+.idea/
+.vscode/
+*.swp
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Backup folders
+image_copy/

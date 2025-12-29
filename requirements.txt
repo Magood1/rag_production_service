@@ -1,0 +1,24 @@
+# Core FastAPI Framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# Data Validation and Settings Management
+pydantic==2.7.1
+pydantic-settings==2.2.1
+
+# AI & Data Processing
+sentence-transformers==2.7.0
+faiss-cpu==1.7.4
+numpy==1.26.4
+pandas==2.2.2
+
+# Google Gemini API Client
+google-generativeai==0.5.4
+
+# Automated Testing
+pytest==8.2.0
+httpx==0.27.0 # Also used by FastAPI TestClient
+
+# Utilities for local development and diagnostics
+python-dotenv==1.0.1
+
