@@ -38,6 +38,7 @@ graph TD
 ## Live Demo (Swagger UI)
 *Real-time interaction via the auto-generated API documentation:*
 ![RAG Service Demo](assets/swagger_demo_1.png)
+*Response and Timing:*
 ![RAG Service Demo](assets/swagger_demo_2.png)
 
 # Tech Stack
